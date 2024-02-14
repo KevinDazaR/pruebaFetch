@@ -1,0 +1,107 @@
+{
+  "admins": [
+    {
+      "id": "a284",
+      "names": "kevin2",
+      "email": "kk@riwi.com",
+      "password": "password2"
+    },
+    {
+      "id": "fbd5",
+      "names": "prueba",
+      "email": "prueba@prueba.com",
+      "password": "password2"
+    },
+    {
+      "id": "898f",
+      "names": "sadasdas",
+      "email": "dasdas",
+      "password": "password2"
+    },
+    {
+      "id": "b8a2",
+      "names": "sadasdas",
+      "email": "dasdas",
+      "password": "password2"
+    },
+    {
+      "id": "7a69",
+      "names": "sadasdas",
+      "email": "dasdas@asdasdas.com",
+      "password": "password2"
+    },
+    {
+      "id": "7518",
+      "names": "sadasdas",
+      "email": "dasdas@asdasdas.com",
+      "password": "password2"
+    },
+    {
+      "id": "4cb8",
+      "names": "sadasdas",
+      "email": "dasdas@asdasdas.com",
+      "password": "password2"
+    },
+    {
+      "id": "9e93",
+      "names": "sadasdas",
+      "email": "dasdas@asdasdas.com",
+      "password": "password2"
+    },
+    {
+      "id": "9c23",
+      "names": "sadasdas",
+      "email": "dasdas@asdasdas.com",
+      "password": "password2"
+    },
+    {
+      "id": "dbfe",
+      "names": "sadasdas",
+      "email": "dasdas@asdasdas.com",
+      "password": "password2"
+    },
+    {
+      "id": "9fa7",
+      "names": "sadasdas",
+      "email": "dasdas@asdasdas.com",
+      "password": "password2"
+    }
+  ],
+  "brands": [
+    {
+      "id": "ff16",
+      "logo": "https://i.ibb.co/j4LGSpH/totto-medellin.jpg",
+      "nombre": "Totto",
+      "local": "127",
+      "piso": "1",
+      "horarios": "Lunes - sábado: 10:00 a.m. - 7:00 p.m. Domingos y festivos: 10:00 a.m. - 6:00 p.m. ",
+      "sitioWeb": "https://www.google.com/"
+    },
+    {
+      "id": "ff12",
+      "logo": "https://i.ibb.co/52s9xfz/logo-dollarcity.jpg",
+      "nombre": "DolarCity",
+      "local": "224",
+      "piso": "2",
+      "horarios": "Lunes - sábado: 10:00 a.m. - 7:00 p.m. Domingos y festivos: 10:00 a.m. - 6:00 p.m. ",
+      "sitioWeb": "https://www.google.com/"
+    },
+    {
+      "id": "5b51",
+      "logo": "https://i.ibb.co/9GNRNcm/Logo-pronto-wash.jpg",
+      "nombre": "Riwi",
+      "local": "321",
+      "piso": "3",
+      "horarios": "Todos los dìas de 6 am a 10 pm",
+      "sitioWeb": "https://www.google.com/"
+    }
+  ],
+  "pqrs": [
+    {
+      "id": "2b53",
+      "tipo": "sugerencia",
+      "emailUser": "kevinPerez@qwd.com",
+      "mensajePQR": "Màs almuerzos "
+    }
+  ]
+}
